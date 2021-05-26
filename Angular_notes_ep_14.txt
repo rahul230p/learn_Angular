@@ -1,9 +1,3 @@
-
-
-Soorya.aaradhya@gmail.com 
-
-Like | Share | Comment | Subscribe 
-
 Angular component lifecycle hooks 
 
 1. By default we have ngonit 
